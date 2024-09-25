@@ -1,5 +1,5 @@
 {
-  "name": "FLASH-MD",
+  "name": "𝐑𝚯𝐊𝐈𝐃",
   "description": "An easy and simple WhatsApp bot developed by France King",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/nqgz89.jpg",
@@ -10,7 +10,7 @@
   "env": {
     "PREFIX": {
       "description": "Set the prefix for bot commands. You can use multiple prefixes by separating them with commas. Example: '.', '#', '!'",
-      "value": ".",
+      "value": ",",
       "required": false
     },
     "AUTO_READ_MESSAGES": {
@@ -73,17 +73,17 @@
     },
     "SESSION_ID": {
       "description": "Place your unique FLASH MD session ID here. This is required for the bot to function.",
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaUFPaDRHM3BoU044VE9sWHNhUmNKR2t3NDJCd0ROTUdnQ1oyc1M1UTBVcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicTJXaFp4NWdHN1pubG5sTlMzNFdlZTJNUVV3N2FtQ1BKNGQwdjBqY1JEST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJJTzk5elNtUnYxVVlMWkNoUzJ4b3daK2FJZEVXVXlIUk9DWFlpYlovRDBnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRMDl2L2UxaWhVdklCR01TVTJUeGFTL1BFdkgwMDkrT1d4OXFwSUpDUVVRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IktLSU5sSGRScUNFZElMQlEwdXRCR2ZoWXovWlFRL1ZQclA2dkoyVWJPRWc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlYvM3JRUlh4T1NkaEliQTI4YzE2YklkMW1SQ3hwc2pvTVpsV29FQmhwV0E9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUc1Zi9lcUlTRTAxcmthTEp3YlRsZnNVSi9YL2JjakUzNGlOd1hRUHEzaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUdqbGdwNTVJYW1TVVYzbDJ2blJQT0pqOVNzQTBqV3haWFFyZlBQSncwUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlN5cEJSNlpwNTNSVTVRbGQ5UWhML3cwK094THZwOWhOSFczbDlUZW5SSWhkZnZ3aUNkRVFBRWJ5TXJsSGxRT2FWcTJieXJMdFBNOUdDMU9Kb09sUWp3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjU0LCJhZHZTZWNyZXRLZXkiOiJBWGVHRUEzLzlRS25WOFNEc0pPeFV4cm13VjczSmkzTDlCelNBMkl3ZmVvPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NDc3NDY1Nzc0MkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJBNjVBODE1QzVGNDMwNjhFOTNBRUJCQzU0M0ZCRDU0NSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzI3MjQ2NDYzfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJmRmxSNmp0RFRiT21pazNWbGl2WXJRIiwicGhvbmVJZCI6IjhhN2U4NTQxLTcwNjctNDZjMC05OGM0LThlMmE3YjM1YzFhMiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPRXJ4UVNHUkpVcjJDSlZPczg3WFAwN0d3aVU9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmQveGxFYk55K0JMU3BBQXB3c2FPZUhkUjVFPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjhXNVpTRTNaIiwibWUiOnsiaWQiOiIyNTQ3NzQ2NTc3NDI6MzNAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi8J2QkfCdmq/wnZCK8J2QiPCdkIMifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01PVWdhd0dFTzNnenJjR0dBd2dBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InhhU0o4NllOMEEwd3M2My96VzZzeDVCMmlSa1FPMVRWTEljNjM4U1Q2bHM9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImgxcUZuSUJwZU5ieHBtaVo4R2llcFk4U3dROTB3ZklUNlUyZFhNaFh4eElIOFRzMVMyNUI5bzIzWTFJWHJQMGk2QnhPeXoxcy9nVWNQNmFOZHpKMUJ3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJLbVhqVklYb1k1WG5yTFNaM3IrbDVIQ0pWZ0JaWlV4MVZKemJqS29DM2NjRWpHNmN3ei9xT2p2THBoM1R0SzlNcUJkUWJHeHcvNXZ0Vkxya2NWUDFqdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDc3NDY1Nzc0MjozM0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJjV2tpZk9tRGRBTk1MT3QvODF1ck1lUWRva1pFRHRVMVN5SE90L0VrK3BiIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzI3MjQ2NDU5LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUhjUCJ9",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter the name of the bot owner. This name will be displayed when required.",
-      "value": "France King",
+      "value": "𝐑𝚯𝐊𝐈𝐃",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
-      "value": "254751284190",
+      "value": "254774657742",
       "required": false
     },
     "WARN_COUNT": {
